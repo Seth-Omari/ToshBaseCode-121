@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2017.
+  ~
+  ~ Anthony Ngure
+  ~
+  ~ Email : anthonyngure25@gmail.com
+  -->
+
+<rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fromDegrees="0"
+    android:pivotX="50%"
+    android:pivotY="50%"
+    android:toDegrees="360">
+
+    <shape
+        android:innerRadius="20dp"
+        android:shape="ring"
+        android:thickness="1dp"
+        android:useLevel="false">
+        <size
+            android:width="100dp"
+            android:height="100dp" />
+        <gradient
+            android:angle="0"
+            android:endColor="@color/colorPrimaryDark"
+            android:startColor="@color/colorAccent"
+            android:type="sweep"
+            android:useLevel="false" />
+    </shape>
+
+</rotate>

@@ -1,0 +1,49 @@
+<!--
+  ~ Copyright (c) 2017.
+  ~
+  ~ Anthony Ngure
+  ~
+  ~ Email : anthonyngure25@gmail.com
+  -->
+
+<resources>
+    <string name="app_name">Base App</string>
+    <string name="cube_ptr_pull_down">Pull Down</string>
+    <string name="cube_ptr_pull_down_to_refresh">Pull Down to Refresh</string>
+    <string name="cube_ptr_release_to_refresh">Release To Refresh</string>
+    <string name="cube_ptr_refreshing">Updating...</string>
+    <string name="cube_ptr_refresh_complete">Updated.</string>
+
+    <string name="cube_ptr_last_update">last update:&#160;</string>
+    <string name="cube_ptr_seconds_ago">&#160;seconds ago</string>
+    <string name="cube_ptr_minutes_ago">&#160;minutes ago</string>
+    <string name="cube_ptr_hours_ago">&#160;hours ago</string>
+
+    <string name="message_empty_data">Nothing here yet :(</string>
+    <string name="just_now">Just Now</string>
+    <string name="lorem_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Etiam non enim magna. Morbi dictum, velit
+        vel semper venenatis, magna odio volutpat velit, at ullamcorper nulla lacus sed turpis.
+        Pellentesque vitae metus elit, nec tincidunt tellus.
+    </string>
+
+    <string name="message_waiting">Please wait…</string>
+    <string name="connection_timed_out">Connection timed out</string>
+    <string name="error_connection">Seems like your connection to the server is taking too long. Please check your network status</string>
+    <string name="cancel">Cancel</string>
+    <string name="retry">Retry</string>
+    <string name="done">Done</string>
+    <string name="server_error">Server error</string>
+    <string name="error_application">An application error occurred</string>
+    <string name="report">Report</string>
+
+    <string name="request_write_storage_permission_text">Approval is needed to save your photo on your device</string>
+    <string name="crop__saving">Saving picture…</string>
+    <string name="crop__wait">Please wait…</string>
+    <string name="crop__pick_error">No image sources available</string>
+    <string name="title_activity_photo_edit">Photo Edit</string>
+    <string name="message_loading_more">Loading more…</string>
+    <string name="message_more_data_request_exhausted">Nothing more, pull down to refresh :(</string>
+
+
+</resources>

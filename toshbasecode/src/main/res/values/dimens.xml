@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2017.
+  ~
+  ~ Anthony Ngure
+  ~
+  ~ Email : anthonyngure25@gmail.com
+  -->
+
+<resources>
+    <dimen name="vibecampo_round_button">40dp</dimen>
+    <dimen name="keyboard_height">254dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+</resources>
